@@ -13,10 +13,8 @@
 
 
 📝 I write blogs on <a href="https://medium.com/@gandrechinmay">Medium</a>
-
-📫 Reach me on <a href="mailto:gandrechinmay@gmail.com">gandrechinmay@gmail.com</a> 
-  
-📫 Feel free to explore my repositories and reach out for any exciting opportunities or collaborations!
+📫 Reach me on <a href="mailto:gandrechinmay@gmail.com">gandrechinmay@gmail.com</a>  
+💼 Check out my profile on <a href="www.linkedin.com/in/chinmay-gandre-9365b7138">LinkedIn</a>
 
 <!---
 gandrechinmay/gandrechinmay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
