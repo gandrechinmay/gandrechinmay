@@ -12,8 +12,8 @@
 - Project Management
 
 
-📝 I write blogs on <a href="https://medium.com/@gandrechinmay">Medium</a>
-📫 Reach me on <a href="mailto:gandrechinmay@gmail.com">gandrechinmay@gmail.com</a>  
+📝 I write blogs on <a href="https://medium.com/@gandrechinmay">Medium</a><br>
+📫 Reach me on <a href="mailto:gandrechinmay@gmail.com">gandrechinmay@gmail.com</a><br>
 💼 Check out my profile on <a href="www.linkedin.com/in/chinmay-gandre-9365b7138">LinkedIn</a>
 
 <!---
