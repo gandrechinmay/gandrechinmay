@@ -13,6 +13,7 @@
 
 
 📝 I write blogs on <a href="https://medium.com/@gandrechinmay">Medium</a>
+
 📫 Reach me on <a href="mailto:gandrechinmay@gmail.com">gandrechinmay@gmail.com</a> 
   
 📫 Feel free to explore my repositories and reach out for any exciting opportunities or collaborations!
