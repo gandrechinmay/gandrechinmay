@@ -7,7 +7,7 @@
   
 📊 Key Skills:
 - Data Cleaning, and Statistical Analysis.
-- Python, SQL, Excel, and Power BI.
+- Python (Pandas Library), SQL, Excel, and Power BI.
 - Business Requirement Analysis
 - Project Management
 
