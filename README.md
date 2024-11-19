@@ -6,11 +6,10 @@
 - Analyze complex datasets to uncover trends, correlations, and opportunities
   
 📊 Key Skills:
-- Data Cleaning, Visualization, and Statistical Analysis.
+- Data Cleaning, and Statistical Analysis.
 - Python, SQL, Excel, and Power BI.
 - Business Requirement Analysis
 - Project Management
-
 
 📝 I write blogs on <a href="https://medium.com/@gandrechinmay">Medium</a><br>
 📫 Reach me on <a href="mailto:gandrechinmay@gmail.com">gandrechinmay@gmail.com</a><br>
