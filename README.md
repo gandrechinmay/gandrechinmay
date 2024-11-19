@@ -1,13 +1,13 @@
 👋 Hi, I’m Chinmay
 
 🔍 What I Do:
-- Transform raw data into actionable insights to drive decision-making.
-- Develop and optimize dashboards and visualizations for business performance tracking.
-- Analyze complex datasets to uncover trends, correlations, and opportunities.
+- Transform raw data into actionable insights 
+- Develop and optimize dashboards and visualizations 
+- Analyze complex datasets to uncover trends, correlations, and opportunities
   
 📊 Key Skills:
 - Data Cleaning, Visualization, and Statistical Analysis.
-- Expertise in tools like Python, SQL, Excel, and Power BI.
+- Python, SQL, Excel, and Power BI.
 - Business Requirement Analysis
 - Project Management
   
@@ -15,11 +15,8 @@
 - Bridging the gap between data and strategy.
 - Collaborating with teams to bring innovative solutions to life.
 - Continuously learning new technologies in the data ecosystem.
-  
-🌟 Why I'm Here:
-- Sharing projects that showcase my journey in data and analytics.
-- Building an open portfolio of my skills and creativity.
-- Connecting with fellow tech enthusiasts to collaborate and grow.
+
+📝 I write blogs on <a href="https://medium.com/@gandrechinmay">Medium</a>
   
 📫 Feel free to explore my repositories and reach out for any exciting opportunities or collaborations!
 
